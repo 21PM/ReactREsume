@@ -1,0 +1,26 @@
+.image_div{
+    width: 60.775px;
+    border-radius: 50%;
+    height: 52.6125px;
+    /* border: 5px solid rgb(0, 0, 0); */
+    /* background-color: rgb(114,195,231); */
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+
+
+}
+.image_div svg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.Label{
+   color: rgb(0, 0, 0);
+   margin: auto;
+   /* border: 1px solid black; */
+   margin-top: 30px;
+   text-align: center;
+}   

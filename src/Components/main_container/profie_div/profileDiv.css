@@ -1,0 +1,26 @@
+#profile_main_div{
+    height: 27%;
+    /* border: 2px solid yellow; */
+}
+#Two_section{
+    width: 100%;
+    min-height: 100%;
+    /* border: 2px solid rgb(0, 132, 255); */
+    display: flex;
+    
+    
+}
+.left{
+    width: 50%;
+    min-height: 100%;
+    border-bottom: 6px solid rgb(0, 0, 0);
+    border-right: 3px solid rgb(0, 0, 0);
+}
+.right{
+    padding: 8px;
+    width: 50%;
+    min-height: 100%;
+    border-left: 3px solid rgb(0, 0, 0);
+    border-bottom: 6px solid rgb(0, 0, 0);
+
+}
